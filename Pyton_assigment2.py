@@ -36,5 +36,5 @@ lista_compra [0] = 'Melocotones'
 lista_compra.sort()
 
 # Exercise 9: Use reassignment to add an element to your tuple.
-alumnos = alumnos + ('Pilar',)
+alumnos += ('Pilar',)
 
